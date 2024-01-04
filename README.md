@@ -1,2 +1,1 @@
-# Introduction-to-Blazor
-An introduction to Blazor a cutting-edge web framework
+For a larger understanding visit       https://blog.openreplay.com/an-introduction-to-blazor/
